@@ -7,10 +7,12 @@ Kickstarter campaign is an initiative that helps creaters in different industrie
 
 ### Purpose
 
-We are here to help our client Louise launch her first kickstarter project in the theatre/plays category. Our analysis will help Louise make a more informed decision. 
+We are here to help our client Louise launch her first kickstarter project in the theatre/plays category. Our analysis will help Louise make a more informed decision. Historically, plays have had a 61% sucess rate. Refer to the images below. Hence, if we can further analyze kickstarter data then we can decide on few key aspects before Louise can start her own campaign.
 
+![Parent Category Stat](https://github.com/Pooja-boot-git/Kickstarter-analysis/blob/main/Category%20Stat.png)
 
-!(https://github.com/Pooja-boot-git/Kickstarter-analysis/blob/main/Category%20Stat.png)
+![Sub Category Stat](https://github.com/Pooja-boot-git/Kickstarter-analysis/blob/main/SubCategory%20Stat.png)
+
 
 Goal: A successful campaign for our client. 
 
@@ -32,12 +34,19 @@ Click on [Trend based on Goal amount](https://github.com/Pooja-boot-git/Kickstar
 
 ### Challenges and Difficulties Encountered
 
-## Results
+## Summary
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Outcomes based on Launch Dates
 
-- What can you conclude about the Outcomes based on Goals?
+  1. The percentage of successful projects has somewhat been consistent thoughout the year except for a slight drop between Oct and Dec.
+  2. We do see a major spike in projects launched in the month of May though sucess rate is still similar to other months. Looking at the data, month in which a project is launched may not be playing a very crucial role.
 
-- What are some limitations of this dataset?
+- Outcomes based on Goals?
+
+  1. A project of Theater/Play category has good chance to succeed if its goal amount has been set anywhere between $1000 to $4999. Refer to data above.
+
+- Limitations
+
+  Anyone who's project has a higher goal amount doesn't have sufficient data to understand the factors that might result in the success or failure of their project. 
 
 - What are some other possible tables and/or graphs that we could create?
