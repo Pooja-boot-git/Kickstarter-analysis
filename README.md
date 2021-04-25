@@ -34,6 +34,8 @@ Click on [Trend based on Goal amount](https://github.com/Pooja-boot-git/Kickstar
 
 ### Challenges and Difficulties Encountered
 
+Putting data into words has been most challending thus far. To overcome that, I went online to read more about such campaigns and what data these campaigning websites provide to their customers. 
+
 ## Summary
 
 - Outcomes based on Launch Dates
@@ -41,12 +43,15 @@ Click on [Trend based on Goal amount](https://github.com/Pooja-boot-git/Kickstar
   1. The percentage of successful projects has somewhat been consistent thoughout the year except for a slight drop between Oct and Dec.
   2. We do see a major spike in projects launched in the month of May though sucess rate is still similar to other months. Looking at the data, month in which a project is launched may not be playing a very crucial role.
 
-- Outcomes based on Goals?
+- Outcomes based on Goals
 
   1. A project of Theater/Play category has good chance to succeed if its goal amount has been set anywhere between $1000 to $4999. Refer to data above.
 
-- Limitations
+- Limitations of dataset
 
   Anyone who's project has a higher goal amount doesn't have sufficient data to understand the factors that might result in the success or failure of their project. 
 
-- What are some other possible tables and/or graphs that we could create?
+- Possibilities
+  
+  1. One important data that we didnt consider is number of successful/failed project by currency. A project that might need $1000 in US might need suppose $6000 in another country. Do the people in that country have that spending capacity?
+  2. Another way to look at the data is through backers count. Does less backer count necessarily mean a failed project? 
